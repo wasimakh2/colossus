@@ -1,4 +1,4 @@
-Sphinx==1.8.3
+Sphinx==3.3.0
 pyenchant==2.0.0
 sphinxcontrib-spelling==4.2.0
 sphinx-rtd-theme==0.4.2
